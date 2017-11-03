@@ -22,7 +22,7 @@ This year we are making the JS Kongress to the place for the JavaScript language
 *   TC39 ([Daniel Ehrenberg‏](https://twitter.com/littledan))
 *   Mozilla ([Lin Clark](https://twitter.com/linclark))
 *   npm, Inc ([Ashley Williams](https://twitter.com/ag_dubs))
-*   Microsoft ([Rachel Nabors](https://twitter.com/rachelnabors))
+*   Microsoft ([Rachel Nabors](https://twitter.com/rachelnabors), [Brian Terlson](https://twitter.com/bterlson))
 
 ![Who already confirmed to join the JS Kongress In-Deep Track](https://2017.js-kongress.de/wp-content/uploads/2017/10/Screen-Shot-2017-10-10-at-21.23.15.png)
 
