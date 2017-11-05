@@ -40,6 +40,8 @@ We strive for interactive sessions. Contributions where you want to discuss, whe
 *   [Good, predictable performance](https://github.com/JSKongress/JS-Kongress-Munich-In-Deep-Track/issues/6)
 *   [Making sure that a new Chrome version does not break your website](https://github.com/JSKongress/JS-Kongress-Munich-In-Deep-Track/issues/7)
 
+[Find all submitted sessions here](https://github.com/JSKongress/JS-Kongress-Munich-In-Deep-Track/issues)
+
 **Note:** This is not a CFP, everybody from the community who owns a ticket has the opportunity to contribute to the In-Deep Slot.
 
 ## Location
