@@ -1,5 +1,7 @@
 # Plugin and extension systems
 
+[Original session proposal: plugins and extension systems](https://github.com/JSKongress/JS-Kongress-Munich-In-Deep-Track/issues/25)
+
 The main motivation stems from letting users extend your product. It helps keeping the core smaller and maintainable and
 you could use plugins to create a community around your product if you allow sharing of them.
 
