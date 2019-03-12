@@ -1,5 +1,7 @@
 # Rollup code-splitting and AMA
 
+by [Lukas Taegert-Atkinson](https://twitter.com/lukastaegert/)
+
 There is a nice blog post explaining code splitting in RollupJS:
 https://levelup.gitconnected.com/code-splitting-for-libraries-bundling-for-npm-with-rollup-1-0-2522c7437697
 
