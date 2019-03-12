@@ -1,6 +1,6 @@
 # Sign language mini-session
 
-Christian (the sign language interpreter) shared a few insights about sign language after the closing.
+Christian (the sign language translator) shared a few insights about sign language after the closing.
 
 - Different languages have different sign languages
 - British and american sign languages are completely different
