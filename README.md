@@ -1,6 +1,6 @@
-# JS-Kongress-Munich Deep-Track
+# JS Kongress Munich #DeepTrack
 [<img align="right" src="https://js-kongress.com/wp-content/uploads/2019/02/deeptrack-banner-300-300.jpg">](https://js-kongress.com/deep-track/)
-This year we are making the JS Kongress again to the place for the JavaScript language interested people, the experts and core team members of various frameworks, tools and engines to discuss the Future of the language JavaScript. The overall idea is to have a creative space, to share ideas, work together, discuss and listen to others - face to face. JS Kongress provides just enough structure to empower attendees to share their expertise. This gives our participants the opportunity to have an unfiltered exchange of innovative ideas. The Deep Track is all about **sharing knowledge, discussing and working on all kinds of topics around JavaScript** (which also **which includes the Future of JavaScript, WebAssembly, and Tooling as well as Microservices, Architectures, Event Sourcing, Stream-oriented architectures, Cloud Native Computing and API First**) and having fun with like-minded people in a safe environment.
+This year we are making the JS Kongress again to the place for the JavaScript language interested people, the experts and core team members of various frameworks, tools and engines to discuss the Future of the language JavaScript. The overall idea is to have a creative space, to share ideas, work together, discuss and listen to others - face to face. JS Kongress provides just enough structure to empower attendees to share their expertise. This gives our participants the opportunity to have an unfiltered exchange of innovative ideas. The DeepTrack is all about **sharing knowledge, discussing and working on all kinds of topics around JavaScript** (which also **which includes the Future of JavaScript, WebAssembly, and Tooling as well as Microservices, Architectures, Event Sourcing, Stream-oriented architectures, Cloud Native Computing and API First**) and having fun with like-minded people in a safe environment.
 
 
 * * *
@@ -19,7 +19,7 @@ This year we are making the JS Kongress again to the place for the JavaScript la
 
 ## How to contribute
 
-Unlike traditional conferences as it is on the main track, the schedule for the Deep Track is decided and created by the participants. Before the conference days, everybody is invited to introduce his session on [our GitHub repository](https://github.com/JSKongress/JS-Kongress-Munich-In-Deep-Track/issues). **For submitting your contribution open a new issue at the [JS Kongress Github Repository](https://github.com/JSKongress/JS-Kongress-Munich-In-Deep-Track/issues).** The idea is to give an introduction to your topic, tell the people about what they can expect and have a place for communication about the topic before, during and after the conference.
+Unlike traditional conferences as it is on the main track, the schedule for the #DeepTrack is decided and created by the participants. Before the conference days, everybody is invited to introduce his session on [our GitHub repository](https://github.com/JSKongress/JS-Kongress-Munich-In-Deep-Track/issues). **For submitting your contribution open a new issue at the [JS Kongress Github Repository](https://github.com/JSKongress/JS-Kongress-Munich-In-Deep-Track/issues).** The idea is to give an introduction to your topic, tell the people about what they can expect and have a place for communication about the topic before, during and after the conference.
 
 ## Session format
 
