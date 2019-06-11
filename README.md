@@ -15,7 +15,7 @@ This year we are making the JS Kongress again to the place for the JavaScript la
 
 ## Who is it for? What's the plan?
 
-**We invite everyone** who wants to contribute to join us at the JS Kongress in Munich (2020, May 04-05). We plan to do a **second track** (besides the [main track](https://js-kongress.com/speakers/)) in an unconference style with round tables and office hours (see [conceptual explanation](#conceptual-explanation)) on all kinds of topics around the future of JavaScript (which also includes WebAssembly and Tooling). Everyone can propose a topic related session whatever topic they’d like to discuss with other developers, experts and users.  
+**We invite everyone** who wants to contribute to join us at the JS Kongress in Munich (2020, April 15-16). We plan to do a **second track** (besides the [main track](https://js-kongress.com/speakers/)) in an unconference style with round tables and office hours (see [conceptual explanation](#conceptual-explanation)) on all kinds of topics around the future of JavaScript (which also includes WebAssembly and Tooling). Everyone can propose a topic related session whatever topic they’d like to discuss with other developers, experts and users.  
 
 ## How to contribute
 
