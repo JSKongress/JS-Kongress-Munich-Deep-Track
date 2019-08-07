@@ -6,8 +6,8 @@ This year we are making the JS Kongress again to the place for the JavaScript la
 * * *
 
 <p align="center">
-<strong>Don’t wait to reserve your seat at JS Kongress – the event sells out every year.</strong>
-<br>
+<strong>Don’t wait to reserve your seat at JS Kongress – the event sells out every year.</strong><br>
+  This is not a CFP, everybody from the community who owns a ticket has the opportunity to contribute to the #DeepTrack.<br>
 <a href="https://ti.to/munich-dev-events/js-kongress-2020/?utm_source=website&utm_medium=github&utm_campaign=deeptrack" target="_blank">Register your seat at JS Kongress 2020</a>
 </p>
 
@@ -23,7 +23,7 @@ Unlike traditional conferences as it is on the main track, the schedule for the 
 
 ## Session format
 
-We strive for interactive sessions. Contributions where you want to discuss, where you want to work with others together, where you want feedback for are gladly seen. The final format is depending on the contributors wish and the number of participants to the individual proposals. This could be an unconference with a lot of participants or round tables and office hours with less participants. **The topics from 2017 can be used for orientation:**
+We strive for interactive sessions. Contributions where you want to discuss, where you want to work with others together, where you want feedback for are gladly seen. The final format is depending on the contributors wish and the number of participants to the individual proposals. This could be an unconference with a lot of participants or round tables and office hours with less participants. **The [topics from 2017 and 2019](https://github.com/JSKongress/JS-Kongress-Munich-Deep-Track/issues?q=is%3Aissue+is%3Aclosed) can be used for orientation:**
 
 *   [What's coming in TC39? We want your help!](https://github.com/JSKongress/JS-Kongress-Munich-In-Deep-Track/issues/8)
 *   [Lifetime of a JavaScript language feature](https://github.com/JSKongress/JS-Kongress-Munich-In-Deep-Track/issues/3)
@@ -31,9 +31,9 @@ We strive for interactive sessions. Contributions where you want to discuss, whe
 *   [Good, predictable performance](https://github.com/JSKongress/JS-Kongress-Munich-In-Deep-Track/issues/6)
 *   [Making sure that a new Chrome version does not break your website](https://github.com/JSKongress/JS-Kongress-Munich-In-Deep-Track/issues/7)
 
-[Find all submitted sessions here](https://github.com/JSKongress/JS-Kongress-Munich-In-Deep-Track/issues)
+Find all [sessions submitted for 2020 here](https://github.com/JSKongress/JS-Kongress-Munich-Deep-Track/issues) and all [previous topics and contributors here](https://github.com/JSKongress/JS-Kongress-Munich-Deep-Track/issues?q=is%3Aissue+is%3Aclosed)
 
-**Note:** This is not a CFP, everybody from the community who owns a ticket has the opportunity to contribute to the Deep Slot.
+**Note:** This is not a CFP, everybody from the community who owns a ticket has the opportunity to contribute to the #DeepTrack.
 
 ## Location
 
