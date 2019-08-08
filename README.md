@@ -1,4 +1,4 @@
-# JS Kongress Munich #DeepTrack
+# JS Kongress Munich #DeepTrack: 2020, April 15-16
 [<img align="right" src="https://js-kongress.com/wp-content/uploads/2019/02/deeptrack-banner-300-300.jpg">](https://js-kongress.com/deep-track/)
 The DeepTrack is all about **sharing knowledge, discussing and working on all kinds of topics around JavaScript** (for example the Future of JavaScript, WebAssembly, and Tooling as well as Scaling, Modern APIs, Massive Platforms, Microservices, Architectures, Event Sourcing, Stream-oriented architectures, Cloud Native Computing and API First) and **having fun with like-minded people in a safe environment**.
 <br><br>
