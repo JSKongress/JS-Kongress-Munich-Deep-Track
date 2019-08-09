@@ -16,7 +16,10 @@ This year we are making the JS Kongress again to the place for the JavaScript la
 </p>
 
 * * *
-<iframe width="100%" height="100%" src="https://www.youtube.com/embed/1yPv0OQ5bhI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[<img align="left" src="https://gallery.mailchimp.com/9c3420f6b5269855b07422fb5/images/7b1849b9-7296-4eae-b500-348715aa8b05.png">](https://youtu.be/1yPv0OQ5bhI)
+Some representatives of the 2019 #DeepTrack discussing the outcome, ideas and inspiration including decorators, top-level await, threads in WASM, WebAssembly and JavaScript working better together ...
+
 * * *
 
 ## Who is it for? What's the plan?
