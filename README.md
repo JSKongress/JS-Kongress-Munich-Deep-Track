@@ -16,6 +16,8 @@ This year we are making the JS Kongress again to the place for the JavaScript la
 </p>
 
 * * *
+<iframe width="100%" height="100%" src="https://www.youtube.com/embed/1yPv0OQ5bhI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+* * *
 
 ## Who is it for? What's the plan?
 
