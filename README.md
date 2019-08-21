@@ -26,6 +26,11 @@ Previous contributions to the #DeepTrack have been made from TC39, v8, webpack, 
 
 **We invite everyone** who wants to contribute to join us at the JS Kongress in Munich (2020, April 15-16). We plan to do a **second track** (besides the [main track](https://js-kongress.com/speakers/)) in an unconference style with round tables and office hours (see [conceptual explanation](#conceptual-explanation)) on all kinds of topics around the future of JavaScript (which also includes WebAssembly and Tooling). Everyone can propose a topic related session whatever topic they’d like to discuss with other developers, experts and users.  
 
+Who will join in 2020 for the #DeepTrack? (first proposals available)
+- Tobias Koppers @wSokra (founder and core team of webpack)
+- How to cook with RxJS by @meeroslav
+- Are you sure you're not a Micromanager by @yegor256
+
 ## How to contribute
 
 Unlike traditional conferences as it is on the main track, the schedule for the #DeepTrack is decided and created by the participants. Before the conference days, everybody is invited to introduce his session on [our GitHub repository](https://github.com/JSKongress/JS-Kongress-Munich-In-Deep-Track/issues). **For submitting your contribution open a new issue at the [JS Kongress Github Repository](https://github.com/JSKongress/JS-Kongress-Munich-In-Deep-Track/issues).** The idea is to give an introduction to your topic, tell the people about what they can expect and have a place for communication about the topic before, during and after the conference.
