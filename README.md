@@ -12,7 +12,7 @@ This year we are making the JS Kongress again to the place for the JavaScript la
 <p align="center">
 <strong>Don’t wait to reserve your seat at JS Kongress – the event sells out every year.</strong><br>
   This is not a CFP, everybody from the community who owns a ticket has the opportunity to contribute to the #DeepTrack.<br>
-<a href="https://ti.to/munich-dev-events/js-kongress-2020/?utm_source=deeptrackrepo&utm_medium=github&utm_campaign=deeptrackrepo" target="_blank">Register your seat at JS Kongress 2020</a>
+<a href="https://ti.to/munich-dev-events/js-kongress-2020/?utm_source=deeptrackrepo&utm_medium=github&utm_campaign=deeptrackrepo" target="_blank">Register your seat at JS Kongress 2021</a>
 </p>
 
 * * *
