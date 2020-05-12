@@ -1,4 +1,4 @@
-# JS Kongress Munich #DeepTrack: 2020, April 15-16
+# JS Kongress Munich #DeepTrack:
 [<img align="right" src="https://js-kongress.com/wp-content/uploads/2019/02/deeptrack-banner-300-300.jpg">](https://js-kongress.com/deep-track/)
 The DeepTrack is all about **sharing knowledge, discussing and working on all kinds of topics around JavaScript** (for example the Future of JavaScript, WebAssembly, and Tooling as well as Scaling, Modern APIs, Massive Platforms, Microservices, Architectures, Event Sourcing, Stream-oriented architectures, Cloud Native Computing and API First) and **having fun with like-minded people in a safe environment**.
 <br><br>
@@ -24,9 +24,9 @@ Previous contributions to the #DeepTrack have been made from TC39, v8, webpack, 
 
 ## Who is it for? What's the plan?
 
-**We invite everyone** who wants to contribute to join us at the JS Kongress in Munich (2020, April 15-16). We plan to do a **second track** (besides the [main track](https://js-kongress.com/speakers/)) in an unconference style with round tables and office hours (see [conceptual explanation](#conceptual-explanation)) on all kinds of topics around the future of JavaScript (which also includes WebAssembly and Tooling). Everyone can propose a topic related session whatever topic they’d like to discuss with other developers, experts and users.  
+**We invite everyone** who wants to contribute to join us at the JS Kongress in Munich (see you again in 2021). We plan to do a **second track** (besides the [main track](https://js-kongress.com/speakers/)) in an unconference style with round tables and office hours (see [conceptual explanation](#conceptual-explanation)) on all kinds of topics around the future of JavaScript (which also includes WebAssembly and Tooling). Everyone can propose a topic related session whatever topic they’d like to discuss with other developers, experts and users.  
 
-Who will join in 2020 for the #DeepTrack? (first proposals available)
+Who will join in 2020 for the #DeepTrack? (first proposals available, 2020 edition postponed)
 - Tobias Koppers @wSokra (founder and core team of webpack)
 - How to cook with RxJS by @meeroslav
 - Are you sure you're not a Micromanager by @yegor256
